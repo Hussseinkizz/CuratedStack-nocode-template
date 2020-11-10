@@ -1,20 +1,20 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "shortname": "CuratedStack",
-  "description": "Collection of free design tools and resources for makers, developers and designers",
-  "contact_link": "https://www.sandoche.com/?contact",
+  "title": "Developers Index",
+  "shortname": "Dev Index",
+  "description": "Dev Index is a free site that indexes various dev tools and resources including all dev tools, platforms, APIs, learning sites up to tweeter useful dev threads and resources to make it easier for code newbies like me and pro-coders like you to find resources in few clicks.",
+  "contact_link": "https://devindex.netlify.app",
   "google_analytics": "G-QWW9YH0WM9",
-  "hostname": "https://curatedstacktemplate.learn.uno/",
-  "icon": "/images/logos/icon.png",
+  "hostname": "Dev Index",
+  "icon": "/images/logos/1603790872114.png",
   "floatingPrompt": {
     "width": "500px",
     "left": "unset",
     "bottom": "112px",
-    "name": "CuratedStack Nocode Template",
-    "text": "Hi, do you like CuratedStack Nocode Template ? Don't forget to show your love on Product Hunt 🚀",
-    "url": "https://www.producthunt.com/posts/curatedstack-no-code-template",
+    "name": "Dev Index",
+    "text": "Hi Dev, would you like to show us some love? We're on twitter!",
+    "url": "https://twitter.com/DevIndex1",
     "right": "32px",
     "disabled": false,
-    "buttonText": "CuratedStack Template on Product Hunt"
+    "buttonText": "A Follow Won't Hurt >>"
   }
 }
