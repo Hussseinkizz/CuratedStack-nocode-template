@@ -1,28 +1,28 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "description": "Build a curated directory of websites without or with code",
+  "title": "Developers Index",
+  "description": "All developer resources into one easily accessible place.",
   "tools": {
-    "title": "Tools & Resources",
-    "description": "Find the tool you need in each category"
+    "title": "Here Is A Handy Selection!",
+    "description": "Hope you find what you need in the categories below."
   },
   "footer": {
-    "title": "Any tool to suggest?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "title": "We can't guess it all, any suggestions?",
+    "description": "Any idea? Had any amazing tool forgotten? Feel free please!",
+    "copyright": "Made with ❤️ in Uganda by ",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "Hussein Kizz",
+      "website": "www.https://twitter.com/HusseinKizz"
     }
   },
   "buttons": {
     "navigation": {
-      "back": "Back"
+      "back": "Home"
     },
     "footer": {
-      "contact": "Contact"
+      "contact": "Contact Us"
     }
   },
   "lunr-module": {
-    "placeholderText": "Search..."
+    "placeholderText": "Search...here!"
   }
 }
